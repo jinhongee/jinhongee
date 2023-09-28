@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Jinhong Min, a sophmore in Columbia University studying Computer Science and Math!
+
+My general interests lie in Machine Learning and Software Development, although I have recently developed a strong interest in Operating Systems and compilers.
+
+
+
+### 📫 How to reach me:
+
 <!--
 **jinhongee/jinhongee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
